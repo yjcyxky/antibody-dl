@@ -14,6 +14,9 @@
 | 抗体筛选行业研究报告 | https://www.vbdata.cn/1518901993 |
 | 单克隆抗体 (科普) | https://www.bilibili.com/video/BV1yz4y197gy/ |
 | LIBRA-seq是革命性的开发单克隆抗体的新方法 | https://www.youtube.com/watch?v=NJxDhtrUmTk |
+| Computational and artificial intelligence-based methods for antibody development | https://pubmed.ncbi.nlm.nih.gov/36669976/ |
+| Analysis of the antibody structure based on high-resolution crystallographic studies | https://pubmed.ncbi.nlm.nih.gov/21477671/ |
+| Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies | https://pubmed.ncbi.nlm.nih.gov/37185622/ |
 
 
 ### Tools
