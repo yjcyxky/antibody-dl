@@ -1,4 +1,4 @@
-## A Collection of Platform, Tools, and Resources for Antibody Engineering
+## A Collection of Platform, Tools, Resources and Companies for Antibody Engineering
 
 ### Platform
 
@@ -17,6 +17,8 @@
 | Computational and artificial intelligence-based methods for antibody development | https://pubmed.ncbi.nlm.nih.gov/36669976/ |
 | Analysis of the antibody structure based on high-resolution crystallographic studies | https://pubmed.ncbi.nlm.nih.gov/21477671/ |
 | Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies | https://pubmed.ncbi.nlm.nih.gov/37185622/ |
+| Machine-designed biotherapeutics: opportunities, feasibility and advantages of deep learning in computational antibody discovery | https://academic.oup.com/bib/article/23/4/bbac267/6643456 |
+| Computational approaches to therapeutic antibody design: established methods and emerging trends | https://academic.oup.com/bib/article/21/5/1549/5581643 | 
 
 
 ### Tools
@@ -53,3 +55,10 @@
 | CDR Redesign | AIF | <a href="https://pubmed.ncbi.nlm.nih.gov/23569282/" target="_blank">23569282</a> | Distribution of pairwise contact in Ag-Ab interface |
 | CDR Redesign | EPCN | <a href="https://pubmed.ncbi.nlm.nih.gov/26189681/" target="_blank">26189681</a> | 2D network of epitope-paratope contacts |
 | CDR Redesign | RosettaAntibodyDesign | <a href="https://pubmed.ncbi.nlm.nih.gov/29702641/" target="_blank">29702641</a> | Framework for ab initio design of antibodies |
+
+
+### Companies
+
+| Company Name | Description | Link |
+|---|---|---|
+|Natural Antibody|Unlocking the power of data-driven predictive methods for antibody therapeutic industry.|https://naturalantibody.com/|
