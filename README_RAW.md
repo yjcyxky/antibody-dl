@@ -21,10 +21,6 @@
 
 | Title | Link |
 |---|---|
-| 抗体发现：杂交瘤技术和噬菌体展示抗体库技术 | <a href="https://zhuanlan.zhihu.com/p/110332860" target="_blank">Link</a> | 
-| 抗体筛选行业研究报告 | <a href="https://www.vbdata.cn/1518901993" target="_blank">Link</a> |
-| 单克隆抗体 (科普) | <a href="https://www.bilibili.com/video/BV1yz4y197gy/" target="_blank">Link</a> |
-| LIBRA-seq是革命性的开发单克隆抗体的新方法 | <a href="https://www.youtube.com/watch?v=NJxDhtrUmTk" target="_blank">Link</a> |
 | Computational and artificial intelligence-based methods for antibody development | <a href="https://pubmed.ncbi.nlm.nih.gov/36669976/" target="_blank">Link</a> |
 | Analysis of the antibody structure based on high-resolution crystallographic studies | <a href="https://pubmed.ncbi.nlm.nih.gov/21477671/" target="_blank">Link</a> |
 | Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies | <a href="https://pubmed.ncbi.nlm.nih.gov/37185622/" target="_blank">Link</a> |
@@ -76,7 +72,9 @@
 
 | Company Name | Description | Link |
 |---|---|---|
-|Natural Antibody|Unlocking the power of data-driven predictive methods for antibody therapeutic industry.| <a href="https://naturalantibody.com/" target="_blank">Link</a> |
+| Natural Antibody|Unlocking the power of data-driven predictive methods for antibody therapeutic industry. | <a href="https://naturalantibody.com/" target="_blank">Link</a> |
+| Profluent | Decoding the language of proteins with AI | https://www.profluent.bio/ |
+| BigHat Biosciences | BigHat Biosciences is designing safer, more effective antibody therapies for patients using machine learning and synthetic biology. | https://www.bighatbio.com/ |
 
 
 ### Other Collections
@@ -85,3 +83,14 @@
 |---|---|---|
 | Papers for protein design using deep learning | Inspired by Kevin Kaichuang Yang's awesome Machine-learning-for-proteins, we established this repository with a sharper focus on deep learning for protein design, which is a rapidly evolving field. | <a href="https://github.com/Peldom/papers_for_protein_design_using_DL" target="_blank">Link</a> |
 | Awesome BCR repertoire papers | Collection of papers related to BCR repertoire analyses | https://github.com/alchemab/bcr-repertoire-papers |
+| Papers on machine learning for proteins | A collaborative list of machine learning papers on protein applications. | https://github.com/yangkky/Machine-learning-for-proteins |
+
+
+### 中文资源
+
+| 资源名称 | 链接 |
+|---|---|
+| 抗体发现：杂交瘤技术和噬菌体展示抗体库技术 | <a href="https://zhuanlan.zhihu.com/p/110332860" target="_blank">Link</a> | 
+| 抗体筛选行业研究报告 | <a href="https://www.vbdata.cn/1518901993" target="_blank">Link</a> |
+| 单克隆抗体 (科普) | <a href="https://www.bilibili.com/video/BV1yz4y197gy/" target="_blank">Link</a> |
+| LIBRA-seq是革命性的开发单克隆抗体的新方法 | <a href="https://www.youtube.com/watch?v=NJxDhtrUmTk" target="_blank">Link</a> |
