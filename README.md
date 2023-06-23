@@ -10,7 +10,7 @@
 
 | Title | Link |
 |---|---|
-| 抗体发现：杂交瘤技术和噬菌体展示抗体库技术 | https://zhuanlan.zhihu.com/p/110332860?spm=wolai.workspace.0.0.79a5379apIXMSS | 
+| 抗体发现：杂交瘤技术和噬菌体展示抗体库技术 | https://zhuanlan.zhihu.com/p/110332860 | 
 | 抗体筛选行业研究报告 | https://www.vbdata.cn/1518901993 |
 | 单克隆抗体 (科普) | https://www.bilibili.com/video/BV1yz4y197gy/ |
 | LIBRA-seq是革命性的开发单克隆抗体的新方法 | https://www.youtube.com/watch?v=NJxDhtrUmTk |
