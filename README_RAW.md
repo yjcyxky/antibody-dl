@@ -84,4 +84,4 @@
 | Collection Name | Description | Link |
 |---|---|---|
 | Papers for protein design using deep learning | Inspired by Kevin Kaichuang Yang's awesome Machine-learning-for-proteins, we established this repository with a sharper focus on deep learning for protein design, which is a rapidly evolving field. | <a href="https://github.com/Peldom/papers_for_protein_design_using_DL" target="_blank">Link</a> |
-| Awesome BCR repertoire papers | Collection of papers related to BCR repertoire analyses | <a href="https://github.com/alchemab/bcr-repertoire-papers" target="_blank">GitHub</a> |
+| Awesome BCR repertoire papers | Collection of papers related to BCR repertoire analyses | https://github.com/alchemab/bcr-repertoire-papers |
