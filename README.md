@@ -31,36 +31,36 @@
 
 ### Tools
 
-| Tool Type | Tool Name | PMID/Link | Description |
+| Tool Type | Tool Name | Description | PMID/Link | 
 |---|---|---|---|
-| Database | Antibody Registry | <a href="https://antibodyregistry.org/ | The Antibody Registry gives researchers a way to universally identify antibodies used in their research." target="_blank">Link</a> |
-| Database | PDB | <a href="https://pubmed.ncbi.nlm.nih.gov/10592235/" target="_blank">10592235</a> | Database of protein structures |
-| Database | OAS | <a href="https://pubmed.ncbi.nlm.nih.gov/30217829/" target="_blank">30217829</a> | Compendium of Ig sequences gathered from large NGS studies |
-| Database | SAbDab | <a href="https://pubmed.ncbi.nlm.nih.gov/24214988/" target="_blank">24214988</a> | Antibody structures in PDB |
-| Database | SAbDab-Thera | <a href="https://pubmed.ncbi.nlm.nih.gov/31555805/" target="_blank">31555805</a> | Database of antibody therapeutics |
-| Database | IMGT | <a href="https://pubmed.ncbi.nlm.nih.gov/15608269/" target="_blank">15608269</a> | Database on genome, proteome, genetics and structure of Ig, TCR and MHC |
-| Database | Abysis | <a href="https://pubmed.ncbi.nlm.nih.gov/27561707/" target="_blank">27561707</a> | Database of sequence- and structure-based bioinformatics tools |
-| Database | Immune Epitope Database | <a href="https://pubmed.ncbi.nlm.nih.gov/30357391/" target="_blank">30357391</a> | Database on antibody and T cell epitopes |
-| Antibody Sequence Assessment | Abnum | <a href="https://pubmed.ncbi.nlm.nih.gov/18614234/" target="_blank">18614234</a> | Tool to number antibody VH and VL sequence |
-| Antibody Sequence Assessment | MUSCLE | <a href="https://pubmed.ncbi.nlm.nih.gov/15034147/" target="_blank">15034147</a> | Tool for sequence alignment |
-| Antibody Sequence Assessment | CLUSTALW | <a href="https://pubmed.ncbi.nlm.nih.gov/12824352/" target="_blank">12824352</a> | Tool for sequence alignment |
-| Antibody Sequence Assessment | Jalview | <a href="https://pubmed.ncbi.nlm.nih.gov/19151095/" target="_blank">19151095</a> | Analysis and visualization of multiple sequence alignments |
-| Antibody Sequence Assessment | NetMHCIIpan | <a href="https://pubmed.ncbi.nlm.nih.gov/32308001/" target="_blank">32308001</a> | Tool to predict binding sites of MHC II molecules |
-| Antibody Sequence Assessment | Therapeutic Antibody Profiler | <a href="https://pubmed.ncbi.nlm.nih.gov/30765520/" target="_blank">30765520</a> | In silico assessment of antibody developability |
-| Antibody Sequence Assessment | Humanness Score | <a href="https://pubmed.ncbi.nlm.nih.gov/17442342/" target="_blank">17442342</a> | Assess the degree of “humanness” of antibodies |
-| Antibody Sequence Assessment | Parapred | <a href="https://pubmed.ncbi.nlm.nih.gov/29672675/" target="_blank">29672675</a> | Sequence-based algorithm for paratope prediction |
-| Antibody Structural Assessment | Swiss-model | <a href="https://pubmed.ncbi.nlm.nih.gov/29788355/" target="_blank">29788355</a> | 3D modeling of antibodies |
-| Antibody Structural Assessment | PIGS | <a href="https://pubmed.ncbi.nlm.nih.gov/25375991/" target="_blank">25375991</a> | 3D modeling of antibodies |
-| Antibody Structural Assessment | ABodyBuilder | <a href="https://pubmed.ncbi.nlm.nih.gov/27392298/" target="_blank">27392298</a> | 3D modeling of antibodies |
-| Antibody Structural Assessment | PyMOL | <a href="https://pubmed.ncbi.nlm.nih.gov/21053052/" target="_blank">21053052</a> | Molecular visualization and assessment |
-| Antibody Structural Assessment | SWISS PDBViewer | <a href="https://pubmed.ncbi.nlm.nih.gov/19517507/" target="_blank">19517507</a> | Integrated suite of tools for structural assessment of proteins |
-| Antibody Structural Assessment | AbAngle | <a href="https://pubmed.ncbi.nlm.nih.gov/23708320/" target="_blank">23708320</a> | Tool to compute relative orientation between the variable domains (VH and VL) |
-| Protein-Protein Docking | ZDOCK | <a href="https://pubmed.ncbi.nlm.nih.gov/12784371/" target="_blank">12784371</a> | Protein-protein docking |
-| Protein-Protein Docking | HADDOCK | <a href="https://pubmed.ncbi.nlm.nih.gov/12580598/" target="_blank">12580598</a> | Protein-protein docking |
-| Protein-Protein Docking | pyDockWeb | <a href="https://pubmed.ncbi.nlm.nih.gov/23661696/" target="_blank">23661696</a> | Protein-protein docking |
-| CDR Redesign | AIF | <a href="https://pubmed.ncbi.nlm.nih.gov/23569282/" target="_blank">23569282</a> | Distribution of pairwise contact in Ag-Ab interface |
-| CDR Redesign | EPCN | <a href="https://pubmed.ncbi.nlm.nih.gov/26189681/" target="_blank">26189681</a> | 2D network of epitope-paratope contacts |
-| CDR Redesign | RosettaAntibodyDesign | <a href="https://pubmed.ncbi.nlm.nih.gov/29702641/" target="_blank">29702641</a> | Framework for ab initio design of antibodies |
+| Database | Antibody Registry | The Antibody Registry gives researchers a way to universally identify antibodies used in their research. | <a href="https://antibodyregistry.org/" target="_blank">Link</a> | 
+| Database | PDB | Database of protein structures | <a href="https://pubmed.ncbi.nlm.nih.gov/10592235/" target="_blank">10592235</a> |
+| Database | OAS | Compendium of Ig sequences gathered from large NGS studies | <a href="https://pubmed.ncbi.nlm.nih.gov/30217829/" target="_blank">30217829</a> |
+| Database | SAbDab | Antibody structures in PDB | <a href="https://pubmed.ncbi.nlm.nih.gov/24214988/" target="_blank">24214988</a> |
+| Database | SAbDab-Thera | Database of antibody therapeutics | <a href="https://pubmed.ncbi.nlm.nih.gov/31555805/" target="_blank">31555805</a> |
+| Database | IMGT | Database on genome, proteome, genetics and structure of Ig, TCR and MHC | <a href="https://pubmed.ncbi.nlm.nih.gov/15608269/" target="_blank">15608269</a> |
+| Database | Abysis | Database of sequence- and structure-based bioinformatics tools | <a href="https://pubmed.ncbi.nlm.nih.gov/27561707/" target="_blank">27561707</a> |
+| Database | Immune Epitope Database | Database on antibody and T cell epitopes | <a href="https://pubmed.ncbi.nlm.nih.gov/30357391/" target="_blank">30357391</a> |
+| Antibody Sequence Assessment | Abnum | Tool to number antibody VH and VL sequence | <a href="https://pubmed.ncbi.nlm.nih.gov/18614234/" target="_blank">18614234</a> |
+| Antibody Sequence Assessment | MUSCLE | Tool for sequence alignment | <a href="https://pubmed.ncbi.nlm.nih.gov/15034147/" target="_blank">15034147</a> |
+| Antibody Sequence Assessment | CLUSTALW | Tool for sequence alignment | <a href="https://pubmed.ncbi.nlm.nih.gov/12824352/" target="_blank">12824352</a> |
+| Antibody Sequence Assessment | Jalview | Analysis and visualization of multiple sequence alignments | <a href="https://pubmed.ncbi.nlm.nih.gov/19151095/" target="_blank">19151095</a> |
+| Antibody Sequence Assessment | NetMHCIIpan | Tool to predict binding sites of MHC II molecules | <a href="https://pubmed.ncbi.nlm.nih.gov/32308001/" target="_blank">32308001</a> |
+| Antibody Sequence Assessment | Therapeutic Antibody Profiler | In silico assessment of antibody developability | <a href="https://pubmed.ncbi.nlm.nih.gov/30765520/" target="_blank">30765520</a> |
+| Antibody Sequence Assessment | Humanness Score | Assess the degree of “humanness” of antibodies | <a href="https://pubmed.ncbi.nlm.nih.gov/17442342/" target="_blank">17442342</a> |
+| Antibody Sequence Assessment | Parapred | Sequence-based algorithm for paratope prediction | <a href="https://pubmed.ncbi.nlm.nih.gov/29672675/" target="_blank">29672675</a> |
+| Antibody Structural Assessment | Swiss-model | 3D modeling of antibodies | <a href="https://pubmed.ncbi.nlm.nih.gov/29788355/" target="_blank">29788355</a> |
+| Antibody Structural Assessment | PIGS | 3D modeling of antibodies | <a href="https://pubmed.ncbi.nlm.nih.gov/25375991/" target="_blank">25375991</a> |
+| Antibody Structural Assessment | ABodyBuilder | 3D modeling of antibodies | <a href="https://pubmed.ncbi.nlm.nih.gov/27392298/" target="_blank">27392298</a> |
+| Antibody Structural Assessment | PyMOL | Molecular visualization and assessment | <a href="https://pubmed.ncbi.nlm.nih.gov/21053052/" target="_blank">21053052</a> |
+| Antibody Structural Assessment | SWISS PDBViewer | Integrated suite of tools for structural assessment of proteins | <a href="https://pubmed.ncbi.nlm.nih.gov/19517507/" target="_blank">19517507</a> |
+| Antibody Structural Assessment | AbAngle | Tool to compute relative orientation between the variable domains (VH and VL) | <a href="https://pubmed.ncbi.nlm.nih.gov/23708320/" target="_blank">23708320</a> |
+| Protein-Protein Docking | ZDOCK | Protein-protein docking | <a href="https://pubmed.ncbi.nlm.nih.gov/12784371/" target="_blank">12784371</a> |
+| Protein-Protein Docking | HADDOCK | Protein-protein docking | <a href="https://pubmed.ncbi.nlm.nih.gov/12580598/" target="_blank">12580598</a> |
+| Protein-Protein Docking | pyDockWeb | Protein-protein docking | <a href="https://pubmed.ncbi.nlm.nih.gov/23661696/" target="_blank">23661696</a> |
+| CDR Redesign | AIF | Distribution of pairwise contact in Ag-Ab interface | <a href="https://pubmed.ncbi.nlm.nih.gov/23569282/" target="_blank">23569282</a> |
+| CDR Redesign | EPCN | 2D network of epitope-paratope contacts | <a href="https://pubmed.ncbi.nlm.nih.gov/26189681/" target="_blank">26189681</a> |
+| CDR Redesign | RosettaAntibodyDesign | Framework for ab initio design of antibodies | <a href="https://pubmed.ncbi.nlm.nih.gov/29702641/" target="_blank">29702641</a> |
 
 
 ### Benchmarking
