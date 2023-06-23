@@ -19,6 +19,7 @@
 | Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies | https://pubmed.ncbi.nlm.nih.gov/37185622/ |
 | Machine-designed biotherapeutics: opportunities, feasibility and advantages of deep learning in computational antibody discovery | https://academic.oup.com/bib/article/23/4/bbac267/6643456 |
 | Computational approaches to therapeutic antibody design: established methods and emerging trends | https://academic.oup.com/bib/article/21/5/1549/5581643 | 
+|Efficient evolution of human antibodies from general protein language models|https://pubmed.ncbi.nlm.nih.gov/37095349/|
 
 
 ### Tools
@@ -62,3 +63,10 @@
 | Company Name | Description | Link |
 |---|---|---|
 |Natural Antibody|Unlocking the power of data-driven predictive methods for antibody therapeutic industry.|https://naturalantibody.com/|
+
+
+### Other Collections
+
+| Collection Name | Description | Link |
+|---|---|---|
+| Papers for protein design using deep learning | Inspired by Kevin Kaichuang Yang's awesome Machine-learning-for-proteins, we established this repository with a sharper focus on deep learning for protein design, which is a rapidly evolving field. | https://github.com/Peldom/papers_for_protein_design_using_DL|
