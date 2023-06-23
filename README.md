@@ -2,7 +2,7 @@
 
 ### Platform
 
-| Platform Name | PMID | Description | 
+| Platform Name | Description | PMID | 
 |---|---|---|
 | BioPhi | A platform for antibody design, humanization, and humanness evaluation based on natural antibody repertoires and deep learning | <a href="https://pubmed.ncbi.nlm.nih.gov/35133949/" target="_blank">35133949</a> |
 
