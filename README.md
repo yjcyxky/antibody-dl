@@ -1,10 +1,11 @@
 ## A Collection of Platform, Tools, Resources and Companies for Antibody Engineering
 
-### Open Source Platform
+### Open Source Platforms / Models
 
-| Name | Description | PMID | 
+| Name | Description | PMID/GitHub | 
 |---|---|---|
 | BioPhi | A platform for antibody design, humanization, and humanness evaluation based on natural antibody repertoires and deep learning | <a href="https://pubmed.ncbi.nlm.nih.gov/35133949/" target="_blank">35133949</a> |
+| DeepAb | Deep learning models and structure realization scripts for the DeepAb antibody structure prediction method | https://github.com/RosettaCommons/DeepAb |
 
 ### Resources
 
@@ -57,6 +58,12 @@
 | CDR Redesign | EPCN | <a href="https://pubmed.ncbi.nlm.nih.gov/26189681/" target="_blank">26189681</a> | 2D network of epitope-paratope contacts |
 | CDR Redesign | RosettaAntibodyDesign | <a href="https://pubmed.ncbi.nlm.nih.gov/29702641/" target="_blank">29702641</a> | Framework for ab initio design of antibodies |
 
+
+### Benchmarking
+
+| Name | Description | Link |
+|---|---|---|
+| Benchmarking of antibody modeling methods | It contains the raw, intermediate and output data involved in the comparison of three tools of protein structure modelling from plain amino acid sequence. | https://github.com/stcmz/antibody-modelling-benchmark|
 
 ### Companies
 
