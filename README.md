@@ -1,9 +1,27 @@
-## A Collection of Platform, Resources, Tools and Papers for Antibody Engineering
+## A Collection of Platform, Tools, and Resources for Antibody Engineering
+
+### Platform
+
+| Platform Name | PMID | Description | 
+|---|---|---|
+| BioPhi | A platform for antibody design, humanization, and humanness evaluation based on natural antibody repertoires and deep learning | <a href="https://pubmed.ncbi.nlm.nih.gov/35133949/" target="_blank">35133949</a> |
+
+### Resources
+
+| Title | Link |
+|---|---|
+| 抗体发现：杂交瘤技术和噬菌体展示抗体库技术 | https://zhuanlan.zhihu.com/p/110332860?spm=wolai.workspace.0.0.79a5379apIXMSS | 
+| 抗体筛选行业研究报告 | https://www.vbdata.cn/1518901993 |
+| 单克隆抗体 (科普) | https://www.bilibili.com/video/BV1yz4y197gy/ |
+| LIBRA-seq是革命性的开发单克隆抗体的新方法 | https://www.youtube.com/watch?v=NJxDhtrUmTk |
+
+
+### Tools
 
 <!-- Match: \| ([0-9]+) \| -->
 <!-- Replace: | <a href="https://pubmed.ncbi.nlm.nih.gov/$1/" target="_blank">$1</a> | -->
 
-| Resource Type | Resource Name | PMID | Description |
+| Tool Type | Tool Name | PMID | Description |
 |---|---|---|---|
 | Database | PDB | <a href="https://pubmed.ncbi.nlm.nih.gov/10592235/" target="_blank">10592235</a> | Database of protein structures |
 | Database | OAS | <a href="https://pubmed.ncbi.nlm.nih.gov/30217829/" target="_blank">30217829</a> | Compendium of Ig sequences gathered from large NGS studies |
