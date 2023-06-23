@@ -1,32 +1,39 @@
 ## A Collection of Platform, Tools, Resources and Companies for Antibody Engineering
 
+
+<!-- Match: \| ([0-9]+) \| -->
+<!-- Replace: | <a href="https://pubmed.ncbi.nlm.nih.gov/$1/" target="_blank">$1</a> | -->
+
+<!-- Match: \| (https://github.com.*) \| -->
+<!-- Replace: | <a href="$1" target="_blank">GitHub</a> | -->
+
+<!-- Match: \| (https://.*) \| -->
+<!-- Replace: | <a href="$1" target="_blank">Link</a> | -->
+
 ### Open Source Platforms / Models
 
 | Name | Description | PMID/GitHub | 
 |---|---|---|
 | BioPhi | A platform for antibody design, humanization, and humanness evaluation based on natural antibody repertoires and deep learning | <a href="https://pubmed.ncbi.nlm.nih.gov/35133949/" target="_blank">35133949</a> |
-| DeepAb | Deep learning models and structure realization scripts for the DeepAb antibody structure prediction method | https://github.com/RosettaCommons/DeepAb |
+| DeepAb | Deep learning models and structure realization scripts for the DeepAb antibody structure prediction method | <a href="https://github.com/RosettaCommons/DeepAb" target="_blank">GitHub</a> |
 
 ### Resources
 
 | Title | Link |
 |---|---|
-| 抗体发现：杂交瘤技术和噬菌体展示抗体库技术 | https://zhuanlan.zhihu.com/p/110332860 | 
-| 抗体筛选行业研究报告 | https://www.vbdata.cn/1518901993 |
-| 单克隆抗体 (科普) | https://www.bilibili.com/video/BV1yz4y197gy/ |
-| LIBRA-seq是革命性的开发单克隆抗体的新方法 | https://www.youtube.com/watch?v=NJxDhtrUmTk |
-| Computational and artificial intelligence-based methods for antibody development | https://pubmed.ncbi.nlm.nih.gov/36669976/ |
-| Analysis of the antibody structure based on high-resolution crystallographic studies | https://pubmed.ncbi.nlm.nih.gov/21477671/ |
-| Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies | https://pubmed.ncbi.nlm.nih.gov/37185622/ |
-| Machine-designed biotherapeutics: opportunities, feasibility and advantages of deep learning in computational antibody discovery | https://academic.oup.com/bib/article/23/4/bbac267/6643456 |
-| Computational approaches to therapeutic antibody design: established methods and emerging trends | https://academic.oup.com/bib/article/21/5/1549/5581643 | 
-|Efficient evolution of human antibodies from general protein language models|https://pubmed.ncbi.nlm.nih.gov/37095349/|
+| 抗体发现：杂交瘤技术和噬菌体展示抗体库技术 | <a href="https://zhuanlan.zhihu.com/p/110332860" target="_blank">Link</a> | 
+| 抗体筛选行业研究报告 | <a href="https://www.vbdata.cn/1518901993" target="_blank">Link</a> |
+| 单克隆抗体 (科普) | <a href="https://www.bilibili.com/video/BV1yz4y197gy/" target="_blank">Link</a> |
+| LIBRA-seq是革命性的开发单克隆抗体的新方法 | <a href="https://www.youtube.com/watch?v=NJxDhtrUmTk" target="_blank">Link</a> |
+| Computational and artificial intelligence-based methods for antibody development | <a href="https://pubmed.ncbi.nlm.nih.gov/36669976/" target="_blank">Link</a> |
+| Analysis of the antibody structure based on high-resolution crystallographic studies | <a href="https://pubmed.ncbi.nlm.nih.gov/21477671/" target="_blank">Link</a> |
+| Fast, accurate antibody structure prediction from deep learning on massive set of natural antibodies | <a href="https://pubmed.ncbi.nlm.nih.gov/37185622/" target="_blank">Link</a> |
+| Machine-designed biotherapeutics: opportunities, feasibility and advantages of deep learning in computational antibody discovery | <a href="https://academic.oup.com/bib/article/23/4/bbac267/6643456" target="_blank">Link</a> |
+| Computational approaches to therapeutic antibody design: established methods and emerging trends | <a href="https://academic.oup.com/bib/article/21/5/1549/5581643" target="_blank">Link</a> | 
+|Efficient evolution of human antibodies from general protein language models| <a href="https://pubmed.ncbi.nlm.nih.gov/37095349/" target="_blank">Link</a> |
 
 
 ### Tools
-
-<!-- Match: \| ([0-9]+) \| -->
-<!-- Replace: | <a href="https://pubmed.ncbi.nlm.nih.gov/$1/" target="_blank">$1</a> | -->
 
 | Tool Type | Tool Name | PMID | Description |
 |---|---|---|---|
@@ -63,17 +70,17 @@
 
 | Name | Description | Link |
 |---|---|---|
-| Benchmarking of antibody modeling methods | It contains the raw, intermediate and output data involved in the comparison of three tools of protein structure modelling from plain amino acid sequence. | https://github.com/stcmz/antibody-modelling-benchmark|
+| Benchmarking of antibody modeling methods | It contains the raw, intermediate and output data involved in the comparison of three tools of protein structure modelling from plain amino acid sequence. | <a href="https://github.com/stcmz/antibody-modelling-benchmark" target="_blank">GitHub</a> |
 
 ### Companies
 
 | Company Name | Description | Link |
 |---|---|---|
-|Natural Antibody|Unlocking the power of data-driven predictive methods for antibody therapeutic industry.|https://naturalantibody.com/|
+|Natural Antibody|Unlocking the power of data-driven predictive methods for antibody therapeutic industry.| <a href="https://naturalantibody.com/" target="_blank">Link</a> |
 
 
 ### Other Collections
 
 | Collection Name | Description | Link |
 |---|---|---|
-| Papers for protein design using deep learning | Inspired by Kevin Kaichuang Yang's awesome Machine-learning-for-proteins, we established this repository with a sharper focus on deep learning for protein design, which is a rapidly evolving field. | https://github.com/Peldom/papers_for_protein_design_using_DL|
+| Papers for protein design using deep learning | Inspired by Kevin Kaichuang Yang's awesome Machine-learning-for-proteins, we established this repository with a sharper focus on deep learning for protein design, which is a rapidly evolving field. | <a href="https://github.com/Peldom/papers_for_protein_design_using_DL" target="_blank">Link</a> |
