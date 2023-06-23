@@ -31,8 +31,9 @@
 
 ### Tools
 
-| Tool Type | Tool Name | PMID | Description |
+| Tool Type | Tool Name | PMID/Link | Description |
 |---|---|---|---|
+| Database | Antibody Registry | <a href="https://antibodyregistry.org/ | The Antibody Registry gives researchers a way to universally identify antibodies used in their research." target="_blank">Link</a> |
 | Database | PDB | <a href="https://pubmed.ncbi.nlm.nih.gov/10592235/" target="_blank">10592235</a> | Database of protein structures |
 | Database | OAS | <a href="https://pubmed.ncbi.nlm.nih.gov/30217829/" target="_blank">30217829</a> | Compendium of Ig sequences gathered from large NGS studies |
 | Database | SAbDab | <a href="https://pubmed.ncbi.nlm.nih.gov/24214988/" target="_blank">24214988</a> | Antibody structures in PDB |
