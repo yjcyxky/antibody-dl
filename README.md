@@ -29,6 +29,13 @@
 |Efficient evolution of human antibodies from general protein language models| <a href="https://pubmed.ncbi.nlm.nih.gov/37095349/" target="_blank">Link</a> |
 
 
+### Technologies
+
+| Name | Description | PMID/Link |
+|---|---|---|
+| LIBRA-seq | linking B cell receptor to antigen specificity through sequencing | <a href="https://pubmed.ncbi.nlm.nih.gov/31787378/" target="_blank">31787378</a> |
+| BEAM | Barcode Enabled Antigen Mapping | <a href="https://www.10xgenomics.com/blog/introducing-beam-barcode-enabled-antigen-mapping-benefits-of-rapid-antigen-specific-b-and-t-cell-discovery" target="_blank">Link</a> |
+
 ### Tools
 
 | Tool Type | Tool Name | Description | PMID/Link | 
@@ -95,3 +102,4 @@
 | 抗体筛选行业研究报告 | <a href="https://www.vbdata.cn/1518901993" target="_blank">Link</a> |
 | 单克隆抗体 (科普) | <a href="https://www.bilibili.com/video/BV1yz4y197gy/" target="_blank">Link</a> |
 | LIBRA-seq是革命性的开发单克隆抗体的新方法 | <a href="https://www.youtube.com/watch?v=NJxDhtrUmTk" target="_blank">Link</a> |
+| 用BEAM技术找单克隆抗体 | <a href="https://www.youtube.com/watch?v=_rFGFEUeCD4" target="_blank">Link</a> |
