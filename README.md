@@ -92,6 +92,7 @@
 | Papers for protein design using deep learning | Inspired by Kevin Kaichuang Yang's awesome Machine-learning-for-proteins, we established this repository with a sharper focus on deep learning for protein design, which is a rapidly evolving field. | <a href="https://github.com/Peldom/papers_for_protein_design_using_DL" target="_blank">Link</a> |
 | Awesome BCR repertoire papers | Collection of papers related to BCR repertoire analyses | <a href="https://github.com/alchemab/bcr-repertoire-papers" target="_blank">GitHub</a> |
 | Papers on machine learning for proteins | A collaborative list of machine learning papers on protein applications. | <a href="https://github.com/yangkky/Machine-learning-for-proteins" target="_blank">GitHub</a> |
+| Database Collection | NAR Database Summary Paper Alphabetic List | <a href="https://www.oxfordjournals.org/nar/database/a/" target="_blank">Link</a> |
 
 
 ### 中文资源
