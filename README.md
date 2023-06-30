@@ -104,3 +104,4 @@
 | LIBRA-seq是革命性的开发单克隆抗体的新方法 | <a href="https://www.youtube.com/watch?v=NJxDhtrUmTk" target="_blank">Link</a> |
 | 用BEAM技术找单克隆抗体 | <a href="https://www.youtube.com/watch?v=_rFGFEUeCD4" target="_blank">Link</a> |
 | 万字长文 >>> 深度解读抗体发现技术 | http://thunder-bio.com/nd.jsp?id=61 |
+| 抗体结构详解 | http://www.detaibio.com/topics/antibody-structure.html |
