@@ -103,3 +103,4 @@
 | 单克隆抗体 (科普) | <a href="https://www.bilibili.com/video/BV1yz4y197gy/" target="_blank">Link</a> |
 | LIBRA-seq是革命性的开发单克隆抗体的新方法 | <a href="https://www.youtube.com/watch?v=NJxDhtrUmTk" target="_blank">Link</a> |
 | 用BEAM技术找单克隆抗体 | https://www.youtube.com/watch?v=_rFGFEUeCD4 |
+| 万字长文 >>> 深度解读抗体发现技术 | http://thunder-bio.com/nd.jsp?id=61 |
